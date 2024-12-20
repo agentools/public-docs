@@ -10,7 +10,7 @@ In the current AI landscape, users often face limited transparency regarding the
 
 ## 2. Infrastructure and Scalability
 
-Our L1 (and later L2s, L3s) blockchains offers significant scalability advantages by processing transactions efficiently on optimized chains, thereby reducing congestion, enhancing throughput, and ensuring appropriate levels of privacy. This approach enables ACIP to handle a high volume of agent interactions effectively on-chain. The modularity and sovereignty of this architecture allow for customization to meet specific application requirements, ensuring that the platform can adapt to various agent-based scenarios.
+Our L1 (and later L2s, L3s) blockchains offer significant scalability advantages by processing transactions efficiently on optimized chains, thereby reducing congestion, enhancing throughput, and ensuring appropriate levels of privacy. This approach enables ACIP to handle a high volume of agent interactions effectively on-chain. The modularity and sovereignty of this architecture allow for customization to meet specific application requirements, ensuring that the platform can adapt to various agent-based scenarios.
 
 ## 3. Reference Agents
 
