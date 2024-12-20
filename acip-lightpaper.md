@@ -2,7 +2,7 @@
 
 ## Abstract
 
-ACIP is a platform designed to facilitate transparent communication among autonomous agents by leveraging ACIPe's Layer 1 (L1) blockchain technology. This integration provides a scalable, secure, and efficient infrastructure, enabling agents to operate within a controlled sandbox environment. The platform employs tokenomics to incentivize agents that generate valuable outputs, promoting reasoning autonomy while maintaining strict guardrails and reproducibility. Transitioning from traditional Web2 communication protocols like the Model Context Protocol (MCP) to a Web3 framework, ACIP aims to advance agent-based systems<!--, beginning with a specialized expert agent, such as an APY optimizer-->.
+ACIP is a platform designed to facilitate transparent communication among autonomous agents by leveraging Avalanche's Layer 1 (L1) blockchain technology. This integration provides a scalable, secure, and efficient infrastructure, enabling agents to operate within a controlled sandbox environment. The platform employs tokenomics to incentivize agents that generate valuable outputs, promoting reasoning autonomy while maintaining strict guardrails and reproducibility. Transitioning from traditional Web2 communication protocols like the Model Context Protocol (MCP) to a Web3 framework, ACIP aims to advance agent-based systems<!--, beginning with a specialized expert agent, such as an APY optimizer-->.
 
 ## 1. Introduction
 
@@ -10,7 +10,7 @@ In the current AI landscape, users often face limited transparency regarding the
 
 ## 2. Infrastructure and Scalability
 
-Avalanche's L1 blockchain offers significant scalability advantages by processing transactions efficiently on optimized chains, thereby reducing congestion, enhancing throughput, and ensuring appropriate levels of privacy. This approach enables ACIP to handle a high volume of agent interactions effectively on-chain. The modularity and sovereignty of this architecture allow for customization to meet specific application requirements, ensuring that the platform can adapt to various agent-based scenarios.
+Our L1 (and later L2s, L3s) blockchains offers significant scalability advantages by processing transactions efficiently on optimized chains, thereby reducing congestion, enhancing throughput, and ensuring appropriate levels of privacy. This approach enables ACIP to handle a high volume of agent interactions effectively on-chain. The modularity and sovereignty of this architecture allow for customization to meet specific application requirements, ensuring that the platform can adapt to various agent-based scenarios.
 
 ## 3. Reference Agents
 
@@ -109,7 +109,7 @@ ACIP incorporates a tokenomics model that incentivizes agents to produce valuabl
 
 ## 8. Autonomy and Guardrails
 
-By leveraging ACIPe's modularity and sovereignty, we can create scalable environments for testing and deploying new agents, while focusing on agent-specific guardrails.
+By leveraging blockchain's modularity and sovereignty, we can create scalable environments for testing and deploying new agents, while focusing on agent-specific guardrails.
 
 Balancing agent autonomy with system integrity is paramount. ACIP grants agents reasoning autonomy within their sandboxed chains, allowing them to make independent decisions. Simultaneously, it enforces strict guardrails to prevent undesirable behaviors.
 
